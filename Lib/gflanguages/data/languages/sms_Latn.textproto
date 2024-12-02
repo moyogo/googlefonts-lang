@@ -11,5 +11,19 @@ exemplar_chars {
   auxiliary: "Å Ö Ø å ö ø ˊ ´ ˈ"
   marks: "◌̂ ◌̃ ◌̈ ◌̊ ◌̌"
 }
+sample_text {
+  masthead_full: "ǨǩǮǯ"
+  masthead_partial: "Ǥǥ"
+  styles: "Mâiʹd päärnže tâʹl äʹlǧǧe mainsted?"
+  tester: "Aanarsääʹmǩiõl liâ pâi mainstam ânnʼjõž Aanar kååʹdd vuuʹdest."
+  poster_sm: "ǩeäččlõõžži"
+  poster_md: "Juõʹǩǩʼkaž"
+  poster_lg: "Siiskaž"
+  specimen_48: "Jõs ni õhtt čâʹlmm lij njuõrâs, sätt obb koođ nuâllʼjed."
+  specimen_36: "Teâđast mon tuäivam pâi čââʹđ njoikkjen, štõ son kuäʹssne äälǥči mainsted muʹnne pâi säämas."
+  specimen_32: "Jõs haaʹlad screennääiʹj, de ǥu kââčč tõn nalla, štõ “jeäʹnn, vuäǯǯam-a mon siõrrâd ipadin tõn õõut sääʹmǩiõllsaž siõr?”, de tâʹl kâʹl vuäǯǯ tõn ääiʹj!"
+  specimen_21: "Takainalla juurdčet, štõ päärnaž lij välddam dommǩiõllân mainstum ǩiõl vuâđđrajjsid da -sannõõzz nuʹtt neelljâkksiʹžžen. Tõʹst koʹst lääʹddǩiõllsaž piârri päärnaž mättai lääddas “jiõččines”, sääʹmǩiõllsaž piârrjest ǩiõl serddmõš vuäitt deʹbe tåbddjed kõrr tuâjjan. Âʹlddpirrõõzz da sooǥǥ miârktõs päärna sääʹmǩiõl ouddnummša vuäitt leeʹd miârkkteei."
+  specimen_16: "Ååuʹc sääʹmǩiõlâst Lääʹddjânnmest mainste koolm: aanarsääʹm, nuõrttsääʹm da tâʹvvsääʹm. Täi historiast da ânnʼjõžvueʹjjest lie jiânnai õhttsaž da jiânnai jeäʹrdõõzz še. Ǥu ǩiõllvaajtõs sääʹmǩiõlâst lääʹddǩiõʹlle haaʹleet årstâʹtted da sääʹmǩiõl vuåǯǯât mååusat õutstõõzzi da piârrji ǩiõllân, ǩiõl seʹrdde tâʹl ooudårra še nåkam, ǩeäk lie jiõčč mättjam sääʹmǩiõl eman škooulâst leʹbe vuõrâsooumžen. Måttmid puärrsid sääʹmǩiõl vaʹlljummuš piârri dommǩiõllân lij nuʹtt čiõlgg äʹšš, štõ tõʹst ij leäkku tõn jäänab smiõttmõš, leša määŋgas jouʹdde tuejjeed ääʹšš ouʹdde jäänab. Mainste-ba päärnže mõõn ǩiõl leʹbe mõiʹd ǩiõlid täättas, suʹnne kannat mainsted jiânnai aalǥâst ääʹljeeʹn. Kulttuur- da ǩiõllpieʹzz da jieʹnnǩiõllsai sääʹmǩiõllsaž ouddpeâmm liâ kuhttu ouddpeâmm-maall, kook õõutsââʹjest piârrjin da jeeʹres õutstõõzzin tuärjjee päärna sääʹmǩiõl ouddnummuž"
+}
 source: "Timothy Feist, A grammar of Skolt Saami, University of Manchester, 2010"
 note: "ʹ U+02B9 is used to indicate palatalization, ˊ U+02CA or ´ U+00B4 are sometimes used instead. ʼ U+02BC, or ’ U+2019, is used between consonants letters to indicate they are not a digraph: lʼj and nʼj. Some dictionaries use ˈ U+02C8, or ' U+0027, to indicate geminate consonants after diphthongs."
