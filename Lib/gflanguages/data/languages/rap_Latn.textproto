@@ -4,3 +4,14 @@ script: "Latn"
 name: "Rapanui"
 population: 1000
 region: "CL"
+exemplar_chars {
+  base: "A a Ā ā E e Ē ē H h I i Ī ī K k M m N n Ŋ ŋ O o Ō ō P p R r T t U u Ū ū V v '"
+  auxiliary: "Á á B b C c D d É é F f G g {G̈} {g̈} Í í J j L l Ó ó Q q S s Ú ú W w X x Y y Z z ʻ ʼ"
+  marks: "◌̄ ◌́"
+  numerals: "- , % + 0 1 2 3 4 5 6 7 8 9"
+  punctuation: "- – — , ; : ! ? . … \' ‘ ’ \" “ ” « » ( ) [ ] @ * / & #"
+}
+source: "Chile, Ministerio de Desarrollo Social y Familia, Unidad de Coordinación de Asuntos Indígenas, Diccionario de la lengua Rapa Nui, 2021"
+source: "Te Ti'ara'a Tano Mo Pāpa'i I Te Re'o Rapa Nui, Rapa Nui: 'Ūmaŋa Hatu Re'o = Academia de la lengua Rapa Nui, 2005"
+source: "Veronica Du Feu, Rapanui, Routledge, “Descriptive grammars”, 1996"
+note: "The glottal stop is generally represented with ' U+0027, but also sometimes with either ‘ U+2018 or ’ U+2019, or in theory ʼ U+02BC or ʻ U+02BB. It’s not clear if ꞌ U+A78C is used. The g was previously used for the velar nasal ŋ and g̈ was sometimes used for the velar stop."
