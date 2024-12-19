@@ -11,6 +11,20 @@ exemplar_chars {
   numerals: "- , % + 0 1 2 3 4 5 6 7 8 9"
   punctuation: "- – — , ; : ! ? . … \' ‘ ’ \" “ ” « » ( ) [ ] @ * / & #"
 }
+sample_text {
+  masthead_full: "ĀāŊŋ"
+  masthead_partial: "Ōō"
+  styles: "He 'a'amu o te ŋā io kimi ma'ara e hitu"
+  tester: "Ki te 'a'amu tupuna o Rapa Nui, te nu'u tu'u ra'e mai ki te motu nei"
+  poster_sm: "Haŋa Rau"
+  poster_md: "'Ana Kena"
+  poster_lg: "Ŋā"
+  specimen_48: "He noho tako'a ananake he 'oka i te 'uhi ma'u mai mai Hiva."
+  specimen_36: "'E te ma'ara mo kimi e nei ŋā io ko te henua take'a era e te maori era ko Hau Maka 'i roto i tō'ona uru uŋa moe vārua."
+  specimen_32: "He u'i e Hotu Matu'a 'ina he riva toe o Hiva mo noho o te mahiŋo. 'O ira, i uŋa mai ai e 7 taŋata 'i ruŋa i te miro mo kimi i te ma'ara riva-riva mo tomo mo noho o te 'ariki ko Hotu 'i roto i a Moana Nui a Kiva."
+  specimen_21: "He u'i e Hotu Matu'a 'ina he riva toe o Hiva mo noho o te mahiŋo. 'O ira, i uŋa mai ai e 7 taŋata 'i ruŋa i te miro mo kimi i te ma'ara riva-riva mo tomo mo noho o te 'ariki ko Hotu 'i roto i a Moana Nui a Kiva. 'E te ma'ara mo kimi e nei ŋā io ko te henua take'a era e te maori era ko Hau Maka 'i roto i tō'ona uru uŋa moe vārua. He oho mai te ŋā kimi ma'ara nei e hitu, he haka tītika te miro ki te e'a iŋa o te ra'ā ka tu'u rō mai ki Kahu-kahu o Hera, he 'īŋoa ra'e o Rapa Nui."
+  specimen_16: "He u'i e Hotu Matu'a 'ina he riva toe o Hiva mo noho o te mahiŋo. 'O ira, i uŋa mai ai e 7 taŋata 'i ruŋa i te miro mo kimi i te ma'ara riva-riva mo tomo mo noho o te 'ariki ko Hotu 'i roto i a Moana Nui a Kiva. 'E te ma'ara mo kimi e nei ŋā io ko te henua take'a era e te maori era ko Hau Maka 'i roto i tō'ona uru uŋa moe vārua. He oho mai te ŋā kimi ma'ara nei e hitu, he haka tītika te miro ki te e'a iŋa o te ra'ā ka tu'u rō mai ki Kahu-kahu o Hera, he 'īŋoa ra'e o Rapa Nui. I tomo mai era ki ruŋa ki te motu nei, he kimi he oho e nei ŋā io i te ma'ara take'a era e Hau Maka 'i roto i tō'ona vārua."
+}
 source: "Chile, Ministerio de Desarrollo Social y Familia, Unidad de Coordinación de Asuntos Indígenas, Diccionario de la lengua Rapa Nui, 2021"
 source: "Te Ti'ara'a Tano Mo Pāpa'i I Te Re'o Rapa Nui, Rapa Nui: 'Ūmaŋa Hatu Re'o = Academia de la lengua Rapa Nui, 2005"
 source: "Veronica Du Feu, Rapanui, Routledge, “Descriptive grammars”, 1996"
